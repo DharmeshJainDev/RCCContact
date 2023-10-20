@@ -2,7 +2,7 @@
 
 > Fetch contact from device and sync them to coreData , realm or BE via socket
 
-## Models 
+## Models
 
 ContactCardModel
 - This model is used with multipe init show we can convert CNContact , RealmPhoneContact , CoreConatact and variable toDictionary is used convert the data json so we can sent it to BE
